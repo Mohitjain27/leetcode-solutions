@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Mohitjain27/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Mohitjain27/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
