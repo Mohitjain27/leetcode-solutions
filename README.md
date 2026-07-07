@@ -42,14 +42,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0234-palindrome-linked-list](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
