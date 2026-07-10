@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0125-valid-palindrome](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Mohitjain27/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
