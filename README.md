@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0078-subsets) |
 | [0162-find-peak-element](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0724-find-pivot-index](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0724-find-pivot-index) |
 ## Backtracking
 |  |
 | ------- |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
