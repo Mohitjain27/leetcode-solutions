@@ -17,12 +17,16 @@ public:
         dp[0] = true;
 
         for (int num : nums) {
+        for (int j = target; j >= num; j--) {
 
-            for (int j = target; j >= num; j--) {
+        bool notTake = dp[j];
+        bool take = dp[j - num];
 
-                dp[j] = dp[j] || dp[j - num];
+        dp[j] = take || notTake;
+    }
+
             }
-        }
+
 
         return dp[target];
     }
