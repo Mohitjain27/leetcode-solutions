@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0078-subsets) |
 | [0162-find-peak-element](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0219-contains-duplicate-ii](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0724-find-pivot-index](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Mohitjain27/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0219-contains-duplicate-ii](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0101-symmetric-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
