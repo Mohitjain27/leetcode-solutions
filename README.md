@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0078-subsets) |
 | [0162-find-peak-element](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0322-coin-change](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0503-next-greater-element-ii](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0724-find-pivot-index](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0101-symmetric-tree) |
+| [0322-coin-change](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0322-coin-change) |
 ## Sliding Window
 |  |
 | ------- |
