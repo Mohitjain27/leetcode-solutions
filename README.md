@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Mohitjain27/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2965-find-missing-and-repeated-values](https://github.com/Mohitjain27/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Backtracking
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Mohitjain27/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2965-find-missing-and-repeated-values](https://github.com/Mohitjain27/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mohitjain27/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0219-contains-duplicate-ii](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/Mohitjain27/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -141,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Mohitjain27/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/Mohitjain27/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
